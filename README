@@ -1,0 +1,7 @@
+This an assignment for CUNY SPS Data Analytics course.
+
+DataDefinition.sql contains scripts to create three tables.
+DataLoad.sql contains scripts to insert data.
+DataRetrieval.sql contans script to query data in three tables.
+
+Week7.r contains R script to load data from PostgreSQL to R dataframe.
